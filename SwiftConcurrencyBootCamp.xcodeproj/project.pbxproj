@@ -11,6 +11,7 @@
 		67DFCFAC2C74ABE7004977E7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67DFCFAB2C74ABE7004977E7 /* ContentView.swift */; };
 		67DFCFAE2C74ABEB004977E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67DFCFAD2C74ABEB004977E7 /* Assets.xcassets */; };
 		67DFCFB12C74ABEB004977E7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67DFCFB02C74ABEB004977E7 /* Preview Assets.xcassets */; };
+		67DFCFB82C74ADC4004977E7 /* DoCatchTryThrowsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67DFCFB72C74ADC4004977E7 /* DoCatchTryThrowsBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		67DFCFAB2C74ABE7004977E7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		67DFCFAD2C74ABEB004977E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		67DFCFB02C74ABEB004977E7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		67DFCFB72C74ADC4004977E7 /* DoCatchTryThrowsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowsBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				67DFCFA92C74ABE7004977E7 /* SwiftConcurrencyBootCampApp.swift */,
 				67DFCFAB2C74ABE7004977E7 /* ContentView.swift */,
+				67DFCFB72C74ADC4004977E7 /* DoCatchTryThrowsBootCamp.swift */,
 				67DFCFAD2C74ABEB004977E7 /* Assets.xcassets */,
 				67DFCFAF2C74ABEB004977E7 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				67DFCFB82C74ADC4004977E7 /* DoCatchTryThrowsBootCamp.swift in Sources */,
 				67DFCFAC2C74ABE7004977E7 /* ContentView.swift in Sources */,
 				67DFCFAA2C74ABE7004977E7 /* SwiftConcurrencyBootCampApp.swift in Sources */,
 			);
