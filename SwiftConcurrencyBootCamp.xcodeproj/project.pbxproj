@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6733DBEC2C7AEB78008A5289 /* TaskBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6733DBEB2C7AEB78008A5289 /* TaskBootCamp.swift */; };
 		67DFCFAA2C74ABE7004977E7 /* SwiftConcurrencyBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67DFCFA92C74ABE7004977E7 /* SwiftConcurrencyBootCampApp.swift */; };
 		67DFCFAC2C74ABE7004977E7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67DFCFAB2C74ABE7004977E7 /* ContentView.swift */; };
 		67DFCFAE2C74ABEB004977E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67DFCFAD2C74ABEB004977E7 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6733DBEB2C7AEB78008A5289 /* TaskBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootCamp.swift; sourceTree = "<group>"; };
 		67DFCFA62C74ABE7004977E7 /* SwiftConcurrencyBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrencyBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67DFCFA92C74ABE7004977E7 /* SwiftConcurrencyBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyBootCampApp.swift; sourceTree = "<group>"; };
 		67DFCFAB2C74ABE7004977E7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				67DFCFAB2C74ABE7004977E7 /* ContentView.swift */,
 				67DFCFB72C74ADC4004977E7 /* DoCatchTryThrowsBootCamp.swift */,
 				67DFCFB92C74F54A004977E7 /* DownloadImageAsync.swift */,
+				6733DBEB2C7AEB78008A5289 /* TaskBootCamp.swift */,
 				67DFCFAD2C74ABEB004977E7 /* Assets.xcassets */,
 				67DFCFAF2C74ABEB004977E7 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6733DBEC2C7AEB78008A5289 /* TaskBootCamp.swift in Sources */,
 				67DFCFBA2C74F54A004977E7 /* DownloadImageAsync.swift in Sources */,
 				67DFCFB82C74ADC4004977E7 /* DoCatchTryThrowsBootCamp.swift in Sources */,
 				67DFCFAC2C74ABE7004977E7 /* ContentView.swift in Sources */,
